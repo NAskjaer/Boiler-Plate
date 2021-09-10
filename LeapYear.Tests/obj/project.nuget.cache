@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPhbLnlyVjpTBNqOy4cmlBAhyZOHH6+ermABatVZH6I8jp5tSs97xX1UXq48G1AXcT67FsrwyCywwxksc9sgbA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\askja\\OneDrive\\Skrivebord\\ITU\\BDSA\\Assigments\\Boiler-Plate\\LeapYear.Tests\\LeapYear.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 16.9.4)' for 'net5.0'.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit (>= 2.4.1)' for 'net5.0'.",
+      "libraryId": "xunit",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'xunit.runner.visualstudio (>= 2.4.3)' for 'net5.0'.",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 3.0.2)' for 'net5.0'.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

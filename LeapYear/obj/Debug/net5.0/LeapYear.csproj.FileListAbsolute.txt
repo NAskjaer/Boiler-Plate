@@ -1,0 +1,16 @@
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\LeapYear.exe
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\LeapYear.deps.json
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\LeapYear.runtimeconfig.json
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\LeapYear.runtimeconfig.dev.json
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\LeapYear.dll
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\ref\LeapYear.dll
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\bin\Debug\net5.0\LeapYear.pdb
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.AssemblyInfo.cs
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.dll
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\ref\LeapYear.dll
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.pdb
+C:\Users\askja\OneDrive\Skrivebord\ITU\BDSA\Assigments\Boiler-Plate\LeapYear\obj\Debug\net5.0\LeapYear.genruntimeconfig.cache
